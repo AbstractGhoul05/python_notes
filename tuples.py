@@ -1,0 +1,5 @@
+new_tuple = (1, 2, 3)
+print(new_tuple[1:])
+another_tuple = ('a', 'a', 'b', 'c', 'b', 'd', 'e', 'f', 'c')
+print(another_tuple.count('a'))
+print(another_tuple.index('b'))
