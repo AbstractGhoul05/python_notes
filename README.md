@@ -1,2 +1,2 @@
 # python_notes
-My python workspace from the Complete Python Bootcamp Udemy Course
+My random python programs
